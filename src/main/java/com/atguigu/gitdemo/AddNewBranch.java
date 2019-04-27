@@ -10,5 +10,7 @@ package com.atguigu.gitdemo;
 public class AddNewBranch {
     public static void main(String[] args) {
         System.out.println("分支开发");
+        System.out.println("分支开发2");
+        System.out.println("分支开发3");
     }
 }
