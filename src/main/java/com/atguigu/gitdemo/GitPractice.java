@@ -10,5 +10,6 @@ package com.atguigu.gitdemo;
 public class GitPractice {
     public static void main(String[] args) {
         System.out.println("practice demo...");
+        System.out.println("practice demo2222...");
     }
 }
